@@ -1,2 +1,2 @@
 # Computer-Vision
-To explore recent basic to advanced methods in computer vision
+To explore recent (i.e. basic to all advanced) methods in computer vision
